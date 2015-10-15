@@ -19,7 +19,9 @@
 .search_btn{width:70px; height:35px;font-size:14px; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;background-color:#FF8C00}
 
 /*shopcart*/
-.shopCart{width:145px; height:35px; background-color:#FF8C00; margin-top:23px;}
- 
+
+.shopCart{width:145px; height:35px; background-color:#FF8C00; margin-top:23px; font-size:14px; color:#fff; line-height:35px;}
+.shopText{ width:87px; height:100%; border-right:#e27a00 solid 1px;background:url(../images/icon/shopcart.gif) 10px center no-repeat; text-indent:40px;}
+.shopNum{width:27px; height:35px; border-left:#ff9c01 solid 1px; background:url(../images/icon/cartDropDown.gif) 33px center no-repeat; text-align:right; padding-right:29px;}
 
 
