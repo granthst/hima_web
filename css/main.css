@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+/* 公用 */
+.comWidth{width:1000px; margin-left:auto; margin-right:auto;}
+.leftArea{float:left}
+.rightArea{float:right}
+
+/* topbar */
+.topBar{height:31px; background-color:#F7F7F7; line-height:31px;}
+.collection{background:url(../images/icon/cookie.gif) left center no-repeat; padding-left:19px; font-weight:bold;}
+.topBar a:hover{color:red;}
+
+/*logoBar*/
+.logoBar{height:85px; background-color:#1D7AD9;}
+.logo{padding-left:41px;padding-top:13px;}
+/*search*/
+.search_box{width:430px;padding-top:23px;padding-left:185px;}
+.search_text{width:350px;height:35px; padding:0 5px; background-color:#fff; line-height:35px/9;}
+.search_btn{width:70px; height:35px;font-size:14px; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;background-color:#FF8C00}
+
+/*shopcart*/
+.shopCart{width:145px; height:35px; background-color:#FF8C00; margin-top:23px;}
+ 
+
+
