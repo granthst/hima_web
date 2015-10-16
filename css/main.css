@@ -24,4 +24,32 @@
 .shopText{ width:87px; height:100%; border-right:#e27a00 solid 1px;background:url(../images/icon/shopcart.gif) 10px center no-repeat; text-indent:40px;}
 .shopNum{width:27px; height:35px; border-left:#ff9c01 solid 1px; background:url(../images/icon/cartDropDown.gif) 33px center no-repeat; text-align:right; padding-right:29px;}
 
+/*nav*/
+.navBox{height:35px; background-color:#1369c0; color:#fff;}
+.shopClass{width:190px; position:relative;}
+.shopClass h3{text-align:center;line-height:35px; }
+.shopClass i{width:11px;height:7px;overflow:hidden; display:inline-block;background:url(../images/icon/navDropDown.gif) left center no-repeat; margin-left:11px;}
+.nav{line-height:35px;}
+.nav li{float:left;}
+.nav a{height:35px;display:inline-block; padding:0 35px; color:#fff;}
+.nav .active{background-color:#4593fd;}
+.shopClass_show{background-color:#4593FD;position:absolute; left:0;top:35;width:100%;}
+.shopClass_item{padding:14px 10px; border-bottom:#3487f2 solid 1px; border-top:#5aa1fe solid 1px;}
+.shopClass_item .b{font-size:14px; font-weight:bold;}
+.shopClass_item a{color:#fff;}
+.shopClass_item dt{height:24px; background:url(../images/icon/arrowRight.gif)right center no-repeat;}
 
+/*banner*/
+.banner{margin-bottom:15px;}
+.banner_bar{width:810px;height:326px;float:right;position:relative;overflow:hidden;}
+.imgBox{width:1620px;height:326px;position:absolute; left:0;top:0;}
+.imgBox li{float:left;}
+.imgBox img{width:810px;height:326px;}
+.imgNum {position:absolute; left:0; bottom:15px; width:100%; text-align:center;}
+.imgNum a{width:20px; height:5px; overflow:hidden; background-color:#fff; display:inline-block; margin:0 3px;}
+.imgNum .active{background-color:#ff7700;}
+
+/*shoptitle*/
+.shopTitle{height:44px; line-height:44px;}
+.shopTitle h3{font-size:24px; float:left; font-weight:normal; padding-left:15px;}
+.icon{width:44px;height:44px;background:url(../images/icon/title.gif) left top no-repeat;float:left;}
